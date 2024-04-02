@@ -1,18 +1,23 @@
-### Hi there, I'm John Carlo! 👋
+### Hi there, I'm John Carlo Villas! 👋
 
 Welcome to my corner of the coding universe! 🚀
 
 ### About Me
 
-- 🌱 I'm an avid learner, always striving to expand my knowledge and master new technologies.
-- 👀 I'm passionate about DevOps, AWS, Docker, Kubernetes, and everything related to crafting efficient and scalable systems.
-- 💼 Currently, I work as a DevOps engineer, architecting robust solutions and automating processes for seamless deployments.
-- 💞️ I'm enthusiastic about collaborating on projects that push the boundaries of innovation and solve real-world challenges.
+- 🌱 I'm an avid learner, currently diving deep into the world of DevOps and cloud technologies.
+- 👀 I'm passionate about crafting robust architectures, automating processes, and ensuring seamless deployments.
+- 💼 Currently, I work as a DevOps engineer, architecting scalable solutions and fostering collaborative development practices.
+- 💞️ I'm enthusiastic about collaborating on projects that revolutionize the way software is developed, deployed, and maintained.
 - 📫 Feel free to reach out to me at johnvillas@virtualstaffing.net for any inquiries or collaboration opportunities.
 
 ### Technologies I Love
 
-DevOps | AWS | Docker | Kubernetes | CI/CD | Jenkins | GitHub | PHP | Python | JavaScript | Web Development
+![DevOps](https://img.shields.io/badge/DevOps-%23222222.svg?style=flat-square&logo=devops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23222222.svg?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
 
 ### Fun Fact
 
