@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @johncarlo-vssdevs
+- 👀 I’m interested in exploring the dynamic realms of DevOps and DevSecOps, crafting robust architectures on AWS, orchestrating with Docker and Kubernetes, diving deep into various programming paradigms including PHP, Python, and JavaScript, and weaving elegant solutions through web development.
+- 🌱 I’m currently immersing myself in the intricate ecosystem of DevOps, navigating the expanses of AWS, mastering containerization with Docker and Kubernetes, fine-tuning the automation pipelines with CI/CD methodologies, orchestrating workflows with Jenkins, and harnessing the collaborative power of GitHub.
+- 💞️ I’m looking to collaborate on forging innovative paths in the landscape of DevOps, orchestrating solutions on AWS, sculpting containerized environments with Docker and Kubernetes, perfecting the art of continuous integration and deployment with CI/CD, streamlining workflows with Jenkins, and fostering collaborative development practices on GitHub.
+- 📫 How to reach me: Drop me a line at johnvillas@virtualstaffing.net.
+- ⚡ Fun fact: Did you know that the first computer virus was created in 1983 and was called the "Elk Cloner"?
