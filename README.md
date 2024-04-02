@@ -1,6 +1,24 @@
-- 👋 Hi, I’m @johncarlo-vssdevs
-- 👀 I’m interested in exploring the dynamic realms of DevOps and DevSecOps, crafting robust architectures on AWS, orchestrating with Docker and Kubernetes, diving deep into various programming paradigms including PHP, Python, and JavaScript, and weaving elegant solutions through web development.
-- 🌱 I’m currently immersing myself in the intricate ecosystem of DevOps, navigating the expanses of AWS, mastering containerization with Docker and Kubernetes, fine-tuning the automation pipelines with CI/CD methodologies, orchestrating workflows with Jenkins, and harnessing the collaborative power of GitHub.
-- 💞️ I’m looking to collaborate on forging innovative paths in the landscape of DevOps, orchestrating solutions on AWS, sculpting containerized environments with Docker and Kubernetes, perfecting the art of continuous integration and deployment with CI/CD, streamlining workflows with Jenkins, and fostering collaborative development practices on GitHub.
-- 📫 How to reach me: Drop me a line at johnvillas@virtualstaffing.net.
-- ⚡ Fun fact: Did you know that the first computer virus was created in 1983 and was called the "Elk Cloner"?
+### Hi there, I'm John Carlo! 👋
+
+Welcome to my corner of the coding universe! 🚀
+
+### About Me
+
+- 🌱 I'm an avid learner, always striving to expand my knowledge and master new technologies.
+- 👀 I'm passionate about DevOps, AWS, Docker, Kubernetes, and everything related to crafting efficient and scalable systems.
+- 💼 Currently, I work as a DevOps engineer, architecting robust solutions and automating processes for seamless deployments.
+- 💞️ I'm enthusiastic about collaborating on projects that push the boundaries of innovation and solve real-world challenges.
+- 📫 Feel free to reach out to me at johnvillas@virtualstaffing.net for any inquiries or collaboration opportunities.
+
+### Technologies I Love
+
+DevOps | AWS | Docker | Kubernetes | CI/CD | Jenkins | GitHub | PHP | Python | JavaScript | Web Development
+
+### Fun Fact
+
+Did you know that the first computer virus was created in 1983 and was called the "Elk Cloner"? 🤯
+
+### Let's Connect!
+
+[![Linkedin: John Carlo Villas](https://img.shields.io/badge/-johncarlo--vssdevs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johncarlo-vssdevs/)](https://www.linkedin.com/in/johncarlo-vssdevs/)
+[![GitHub: johncarlo-vssdevs](https://img.shields.io/github/followers/johncarlo-vssdevs?label=follow&style=social)](https://github.com/johncarlo-vssdevs)
