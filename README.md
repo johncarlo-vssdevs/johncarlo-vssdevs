@@ -29,5 +29,5 @@ Did you know that the first computer virus was created in 1983 and was called th
 
 ### Let's Connect!
 
-[![Linkedin: John Carlo Villas](https://img.shields.io/badge/-johncarlo--vssdevs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-carlo-villas/)](https://www.linkedin.com/in/john-carlo-villas/)
+[![Linkedin: John Carlo Villas](https://img.shields.io/badge/-John--Carlo--Villas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-carlo-villas/)](https://www.linkedin.com/in/john-carlo-villas/)
 [![GitHub: johncarlo-vssdevs](https://img.shields.io/github/followers/johncarlo-vssdevs?label=follow&style=social)](https://github.com/johncarlo-vssdevs)
