@@ -1,6 +1,6 @@
 ### Hi there, I'm John Carlo Villas! 👋
 
-Welcome to my corner of the coding universe! 🚀
+Welcome to my corner of the coding and devops universe! 🚀
 
 ### About Me
 
